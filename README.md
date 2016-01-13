@@ -3,5 +3,5 @@ turn-based game design in java with GUI
 
 Demo
 
-![](http://i.imgur.com/rHWUvk7.gifv)
+![](http://i.imgur.com/rHWUvk7.gif)
 
