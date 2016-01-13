@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Fortress_Defense</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.sirius.nature.modelingproject</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>docs/GENERATEDUML.jpg</name>
+			<type>1</type>
+			<location>/home/alecppt/Downloads/GENERATEDUML.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
